@@ -20,7 +20,7 @@
             <div id="campos-login">
                 <div id="flecha-titulo">
                     <div id="flecha-atras">
-                        <a href="../controller/btn-contrasena.php"><span class="dashicons--arrow-left-alt2"></span></a>
+                        <a href="../../controller/pass/btn-contrasena.php"><span class="dashicons--arrow-left-alt2"></span></a>
                     </div>
 
                     <div id="titulo">
@@ -31,7 +31,7 @@
 
 
                 <div id="campos-btn">
-                    <form class="contenedor-formulario" action="../controller/pass-new.php" method="POST">
+                    <form class="contenedor-formulario" action="../../controller/pass/pass-new.php" method="POST">
                         <div id="campos">
                             <div class="campo">
                                 <input type="email" name="email" placeholder="Correo electrónico" required>

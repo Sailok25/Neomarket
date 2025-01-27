@@ -1,3 +1,3 @@
 <?php
-    header('Location: ../view/contrasena-cambiada.view.php');
+    header('Location: ../../view/pass/contrasena-cambiada.view.php');
 ?>

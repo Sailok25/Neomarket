@@ -32,7 +32,7 @@
 
             <div id="campos-btn">
                 <div class="submit-btn">
-                    <a href="../controller/btn-login.php">Volver al Login</a>
+                    <a href="../../index.php">Volver al Login</a>
                 </div>
             </div>
         </div>

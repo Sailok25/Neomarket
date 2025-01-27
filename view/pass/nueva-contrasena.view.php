@@ -33,7 +33,7 @@
 
                 <div id="arriba">
                     <div id="campos-btn">
-                        <form class="contenedor-formulario" action="../controller/pass-camb.php" method="POST">
+                        <form class="contenedor-formulario" action="../../controller/pass/pass-camb.php" method="POST">
                             <div id="campos">
                                 <div class="campo">
                                     <input type="email" name="email" placeholder="Nueva contraseña" required>

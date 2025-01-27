@@ -33,7 +33,7 @@
 
 
                 <div id="campos-btn">
-                    <form class="contenedor-formulario" action="../controller/correo-otp.php" method="POST">
+                    <form class="contenedor-formulario" action="../../controller/pass/correo-otp.php" method="POST">
                         <div id="campos">
                             <div class="campo">
                                 <input type="email" name="email" placeholder="Correo electrónico" required>
@@ -46,7 +46,7 @@
                     </form>
                 </div>
 
-                <a href="../controller/btn-login.php">Ya recordaste tu contraseña? <strong>Inicia sessión ahora</strong></a>
+                <a href="../../controller/access/btn-login.php">Ya recordaste tu contraseña? <strong>Inicia sessión ahora</strong></a>
             </div>
         </div>
     </main>

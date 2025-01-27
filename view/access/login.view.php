@@ -40,7 +40,7 @@
                                 <input type="password" name="password" placeholder="Contraseña" required>
                             </div>
 
-                            <a href="../../controller/access/btn-contrasena.php">¿Olvidaste la contraseña?</a>
+                            <a href="../../controller/pass/btn-contrasena.php">¿Olvidaste la contraseña?</a>
                         </div>
 
                         <div class="submit-btn">
