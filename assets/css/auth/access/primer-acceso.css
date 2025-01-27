@@ -1,0 +1,88 @@
+/* Basico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+#all {
+    padding: 3rem 2.2rem 3rem 2.2rem;
+    background-image: url(../../../img/macenta.png);
+    height: 100vh;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-size: cover;
+}
+
+#bienvenida{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+}
+
+#icono {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#icono img {
+    width: 5rem;
+}
+
+#icono p {
+    font-family: "Viga", serif;
+    font-size: 2rem;
+}
+
+#acceso {
+    display: flex;
+    flex-direction: column;
+    gap: 4.6rem;
+    width: 100%;
+    align-items: center;
+}
+
+#acceso a {
+    font-size: 1.5rem;
+    font-family: "Urbanist";
+    text-decoration: none;
+    color: black;
+}
+
+#btn-acceso {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 1.5rem;
+}
+
+#btn-acceso a {
+    background-color: #1E232C;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    font-family: "Urbanist", sans-serif;
+    width: 100%;
+    text-align: center;
+    padding: 1.9rem 0;
+}
+
+#btn-acceso a:hover {
+    background-color: #ffffff;
+    transition: background-color 0.3s ease;
+    color: #1E232C;
+    border: 1px solid #1E232C;
+}
