@@ -15,7 +15,7 @@ h2 {
     font-family: "Urbanist";
 }
 
-#titulo {
+#titulo2 {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -23,20 +23,6 @@ h2 {
     gap: 1rem;
 }
 
-#titulo p{
-    font-family: 'Urbanist';
-    font-size: 1.7rem;
-    font-weight: 500;
-    color: #8391A1;
-}
-
-#titulo2 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    gap: 1rem;
-}
 
 #titulo2 p{
     font-family: 'Urbanist';
@@ -45,13 +31,36 @@ h2 {
     color: #8391A1;
 }
 
-#campos-login {
+#titulo3 {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+}
+
+
+#titulo3 p{
+    font-family: 'Urbanist';
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: #8391A1;
+}
+
+#campos-pass {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     height: 100%;
     width: 100%;
     align-items: center;
+}
+
+#campos-pass     a {
+    font-size: 1.5rem;
+    font-family: "Urbanist";
+    text-decoration: none;
+    color: black;
 }
 
 #flecha-titulo {
@@ -91,6 +100,33 @@ form {
 }
 
 .contenedor-formulario {}
+
+#campos_change {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+}
+
+#campos_change input {
+    border: 1px solid #8391A1;
+    background-color: #F7F8F9;
+    color: #8391A1;
+    font-family: "Urbanist";
+    font-size: 1.5rem;
+    width: 100%;
+    padding: 1.9rem;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+#campos_change a {
+    font-size: 1.5rem;
+    font-family: "Urbanist";
+    text-decoration: none;
+    color: #6A707C;
+    font-weight: 600;
+}
 
 #campos {
     display: flex;
@@ -165,4 +201,8 @@ form {
     transition: background-color 0.3s ease;
     color: #1E232C;
     border: 1px solid #1E232C;
+}
+
+#arriba{
+    width: 100%;
 }

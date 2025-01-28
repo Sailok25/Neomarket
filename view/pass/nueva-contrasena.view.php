@@ -9,7 +9,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&family=Viga&display=swap"
         rel="stylesheet">
-    <title>Verificación OTP | Neomarket</title>
+    <title>Nueva contraseña | Neomarket</title>
     <link rel="stylesheet" href="../../assets/css/auth/pass/contrasena.css">
     <link rel="stylesheet" href="../../assets/css/global.css">
     <link rel="stylesheet" href="../../assets/css/icons/iconos.css">
@@ -19,13 +19,9 @@
 
     <main>
         <div id="all">
-            <div id="campos-login">
+            <div id="campos-pass">
                 <div id="flecha-titulo">
-                    <div id="flecha-atras">
-                        <a href="../controller/btn-contrasena.php"><span class="dashicons--arrow-left-alt2"></span></a>
-                    </div>
-
-                    <div id="titulo">
+                    <div id="titulo2">
                         <h2>Crear nueva contraseña</h2>
                         <p>Tu nueva contraseña debe ser diferente a las utilizadas anteriormente.</p>
                     </div>
@@ -34,12 +30,10 @@
                 <div id="arriba">
                     <div id="campos-btn">
                         <form class="contenedor-formulario" action="../../controller/pass/pass-camb.php" method="POST">
-                            <div id="campos">
-                                <div class="campo">
-                                    <input type="email" name="email" placeholder="Nueva contraseña" required>
+                            <div id="campos_change">
+                                <input type="password" name="password" placeholder="Nueva contraseña" required>
 
-                                    <input type="email" name="email" placeholder="Confirmar nueva contraseña" required>
-                                </div>
+                                <input type="password" name="password" placeholder="Confirmar nueva contraseña" required>
                             </div>
 
                             <div class="submit-btn">

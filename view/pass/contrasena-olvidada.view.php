@@ -19,7 +19,7 @@
 
     <main>
         <div id="all">
-            <div id="campos-login">
+            <div id="campos-pass">
                 <div id="flecha-titulo">
                     <div id="flecha-atras">
                         <a href="../controller/btn-login.php"><span class="dashicons--arrow-left-alt2"></span></a>

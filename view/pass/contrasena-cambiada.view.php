@@ -23,7 +23,7 @@
                 <img src="../../assets/img/iconos/check-verd.svg" alt="">
             </div>
             <div id="flecha-titulo">
-                <div id="titulo2">
+                <div id="titulo3">
                     <h2>¡Contraseña cambiada!</h2>
                     <p>Tu contraseña se ha cambiado con exito.</p>
                 </div>
