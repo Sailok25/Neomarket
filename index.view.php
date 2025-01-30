@@ -26,7 +26,7 @@
                         <a href="controller/access/btn-login.php">Iniciar sesión</a>
                         <a href="controller/access/btn-registro.php">Registrar</a>
                     </div>
-                    <a href="#">¿Acceder como <strong>usuario</strong>?</a>
+                    <a href="view/paginas/inicio.view.php">¿Acceder como <strong>usuario</strong>?</a>
                 </div>
             </section>
         </div>

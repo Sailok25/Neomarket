@@ -22,7 +22,7 @@
             <div id="campos-login">
                 <div id="flecha-titulo">
                     <div id="flecha-atras">
-                    <a href="../index.php"><span class="dashicons--arrow-left-alt2"></span></a>
+                    <a href="../../index.php"><span class="dashicons--arrow-left-alt2"></span></a>
                     </div>
                     <div id="titulo">
                         <h2>¡Hola de nuevo!</h2>
