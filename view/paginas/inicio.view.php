@@ -16,6 +16,19 @@
 </head>
 
 <body>
+    <header>
+        <div id="barra">
+            <div class="bordeado">
+                <a href="../../index.php"><span class="dashicons--arrow-left-alt2"></span></a>
+            </div>
+            <div class="logo">
+                <p>Neomarket.</p>
+            </div>
+            <div class="bordeado">
+                <span class="f7--cart"></span>
+            </div>
+        </div>
+    </header>
     <main>
         <div id="all">
             <h1>prova text</h1>
