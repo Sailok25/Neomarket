@@ -34,4 +34,13 @@
             <h1>prova text</h1>
         </div>
     </main>
+    <footer>
+        <div id="iconos">
+            <div class="i_opcio"><a href="#"></a></div>
+            <div class="i_opcio"><a href="#"></a></div>
+            <div class="i_opcio"><a href="#"></a></div>
+            <div class="i_opcio"><a href="#"></a></div>           
+            <div class="i_opcio"><a href="#"></a></div>
+        </div>
+    </footer>
 </body>

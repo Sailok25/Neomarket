@@ -45,3 +45,24 @@ main{
     padding: 1.2rem;
     margin-top: 6.5rem;
 }
+
+footer{
+    display: flex;
+    flex-direction: row;
+}
+
+#iconos{
+
+}
+
+.i_opcio{
+
+}
+
+.i_opcio span{
+
+}
+
+.i_opcio span:hover{
+
+}
