@@ -36,11 +36,11 @@
     </main>
     <footer>
         <div id="iconos">
-            <div class="i_opcio"><a href="#"></a></div>
-            <div class="i_opcio"><a href="#"></a></div>
-            <div class="i_opcio"><a href="#"></a></div>
-            <div class="i_opcio"><a href="#"></a></div>           
-            <div class="i_opcio"><a href="#"></a></div>
+            <div class="i_opcio"><a href="#"><span class="clarity--home-line"></span></a></div>
+            <div class="i_opcio"><a href="#"><span class="prime--bookmark"></span></a></div>
+            <div class="i_opcio"><a href="#"><span class="f7--cart-fill"></span></a></div>
+            <div class="i_opcio"><a href="#"></a>notis</div>           
+            <div class="i_opcio"><a href="#"></a>perfil</div>
         </div>
     </footer>
 </body>

@@ -47,22 +47,32 @@ main{
 }
 
 footer{
-    display: flex;
-    flex-direction: row;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 8px 0;
+    background-color: #FFFFFF;
+    box-shadow: -2px 0px 4px 0px rgba(0, 0, 0, 0.1);
 }
 
 #iconos{
-
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
-
+/* 
 .i_opcio{
 
 }
 
-.i_opcio span{
-
+.i_opcio a{
+    text-decoration: none;
+    color: black;
 }
 
-.i_opcio span:hover{
+.i_opcio a:hover{
 
-}
+} */
