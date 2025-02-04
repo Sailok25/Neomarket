@@ -39,8 +39,8 @@
             <div class="i_opcio"><a href="#"><span class="clarity--home-line"></span></a></div>
             <div class="i_opcio"><a href="#"><span class="prime--bookmark"></span></a></div>
             <div class="i_opcio"><a href="#"><span class="f7--cart-fill"></span></a></div>
-            <div class="i_opcio"><a href="#"></a>notis</div>           
-            <div class="i_opcio"><a href="#"></a>perfil</div>
+            <div class="i_opcio"><a href="#"><span class="ion--notifications-outline"></span></a></div>           
+            <div class="i_opcio"><a href="#"><span class="mingcute--user-2-line"></span></a></div>
         </div>
     </footer>
 </body>
