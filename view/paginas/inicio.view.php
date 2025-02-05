@@ -38,7 +38,7 @@
         <div id="iconos">
             <div class="i_opcio"><a href="#"><span class="clarity--home-line"></span></a></div>
             <div class="i_opcio"><a href="#"><span class="prime--bookmark"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="f7--cart-fill"></span></a></div>
+            <div class="i_opcio"><a href="#"><span class="f7--cart"></span></a></div>
             <div class="i_opcio"><a href="#"><span class="ion--notifications-outline"></span></a></div>           
             <div class="i_opcio"><a href="#"><span class="mingcute--user-2-line"></span></a></div>
         </div>
