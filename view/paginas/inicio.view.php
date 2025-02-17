@@ -32,80 +32,19 @@
             <h1>prova text</h1>
 
             <section id="productes">
-                <div class="producte">
-                    <div class="foto-producte">
-                        <img src="../../assets/img/foto-producte.png" alt="">
-                    </div>
-                    <div class="dades-producte">
-                        <p class="nom-producte">Nom producte</p>
-                        <div class="preu-mesinfo">
-                            <p class="preu-producte">00.00€</p>
-                            <div class="mesinfo">
-                                <span class="clarity--info-line">flecheta</span>
+                <a href="../../controller/paginas/infoprod.php">
+                    <div class="producte">
+                        <div class="foto-producte">
+                            <img src="../../assets/img/foto-producte.png" alt="">
+                        </div>
+                        <div class="dades-producte">
+                            <p class="nom-producte">Nom producte</p>
+                            <div class="preu-mesinfo">
+                                <p class="preu-producte">00.00€</p>
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="producte">
-                    <div class="foto-producte">
-                        <img src="../../assets/img/foto-producte.png" alt="">
-                    </div>
-                    <div class="dades-producte">
-                        <p class="nom-producte">Nom producte</p>
-                        <div class="preu-mesinfo">
-                            <p class="preu-producte">00.00€</p>
-                            <div class="mesinfo">
-                                <span class="clarity--info-line">flecheta</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="producte">
-                    <div class="foto-producte">
-                        <img src="../../assets/img/foto-producte.png" alt="">
-                    </div>
-                    <div class="dades-producte">
-                        <p class="nom-producte">Nom producte</p>
-                        <div class="preu-mesinfo">
-                            <p class="preu-producte">00.00€</p>
-                            <div class="mesinfo">
-                                <span class="clarity--info-line">flecheta</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="producte">
-                    <div class="foto-producte">
-                        <img src="../../assets/img/foto-producte.png" alt="">
-                    </div>
-                    <div class="dades-producte">
-                        <p class="nom-producte">Nom producte</p>
-                        <div class="preu-mesinfo">
-                            <p class="preu-producte">00.00€</p>
-                            <div class="mesinfo">
-                                <span class="clarity--info-line">flecheta</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="producte">
-                    <div class="foto-producte">
-                        <img src="../../assets/img/foto-producte.png" alt="">
-                    </div>
-                    <div class="dades-producte">
-                        <p class="nom-producte">Nom producte</p>
-                        <div class="preu-mesinfo">
-                            <p class="preu-producte">00.00€</p>
-                            <div class="mesinfo">
-                                <span class="clarity--info-line">flecheta</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </a>
             </section>
         </div>
     </main>

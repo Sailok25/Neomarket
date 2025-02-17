@@ -12,19 +12,17 @@
     <title>Inicio | Neomarket</title>
     <link rel="stylesheet" href="../../assets/css/base_pag.css">
     <link rel="stylesheet" href="../../assets/css/global.css">
+    <link rel="stylesheet" href="../../assets/css/temp.css">
     <link rel="stylesheet" href="../../assets/css/icons/iconos.css">
 </head>
 
 <body>
     <header>
         <div id="barra">
-            <div class="bordeado">
-                <a href="../../index.php"><span class="dashicons--arrow-left-alt2"></span></a>
-            </div>
-            <div class="logo">
+            <div class="logo apano1">
                 <p>Neomarket.</p>
             </div>
-            <div class="bordeado">
+            <div class="bordeado apano2">
                 <span class="f7--cart"></span>
             </div>
         </div>
@@ -32,6 +30,23 @@
     <main>
         <div id="all">
             <h1>prova text</h1>
+
+            <section id="productes">
+                <div class="producte">
+                    <div class="foto-producte">
+                        <img src="../../assets/img/foto-producte.png" alt="">
+                    </div>
+                    <div class="dades-producte">
+                        <p class="nom-producte">Nom producte</p>
+                        <div class="preu-mesinfo">
+                            <p class="preu-producte">00.00€</p>
+                            <div class="mesinfo">
+                                <span class="si--arrow-right-fill"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </main>
     <footer>
@@ -39,7 +54,7 @@
             <div class="i_opcio"><a href="#"><span class="clarity--home-line"></span></a></div>
             <div class="i_opcio"><a href="#"><span class="prime--bookmark"></span></a></div>
             <div class="i_opcio"><a href="#"><span class="f7--cart"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="ion--notifications-outline"></span></a></div>           
+            <div class="i_opcio"><a href="#"><span class="ion--notifications-outline"></span></a></div>
             <div class="i_opcio"><a href="#"><span class="mingcute--user-2-line"></span></a></div>
         </div>
     </footer>
