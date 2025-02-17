@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="../../assets/css/base_pag.css">
     <link rel="stylesheet" href="../../assets/css/global.css">
     <link rel="stylesheet" href="../../assets/css/temp.css">
+    <link rel="stylesheet" href="../../assets/css/info_prod.css">
     <link rel="stylesheet" href="../../assets/css/icons/iconos.css">
 </head>
 
@@ -32,7 +33,23 @@
     </header>
     <main>
         <div id="all">
-            <h1>prova text</h1>
+            <section id="nombre-modelo">
+                <div class="fot-producto">
+                    <img src="../../assets/img/sofa.png" alt="">
+                </div>
+                <div class="nom-fab-prod">
+                    <div class="fabricante">
+                        <img src="" alt="" class="fot-fabricante">
+                        <p>Nombre fabricante</p>
+                    </div>
+                    <p>Nombre modelo producto</p>
+                </div>
+
+            </section>
+            <section id="precio-cantidad">
+
+            </section>
+            <section id="detalles-valoracion"></section>
         </div>
     </main>
     <footer>
