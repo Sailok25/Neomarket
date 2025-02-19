@@ -39,7 +39,9 @@
                 </div>
                 <div class="nom-fab-prod">
                     <div class="fabricante">
-                        <img src="" alt="" class="fot-fabricante">
+                        <div class="dimension_fot_fabricante">
+                            <img src="../../assets/img/icono_fabricant.png" alt="" class="fot-fabricante">
+                        </div>
                         <p>Nombre fabricante</p>
                     </div>
                     <p>Nombre modelo producto</p>
@@ -47,7 +49,14 @@
 
             </section>
             <section id="precio-cantidad">
-
+                <div class="carrito">
+                    <p class="precio">00,00€</p>
+                    <div class="manipular-cantidad">
+                        <button class="cantidad-btn">+</button>
+                        <input type="text" class="cantidad" value="00" readonly>
+                        <button class="cantidad-btn">−</button>
+                    </div>
+                </div>
             </section>
             <section id="detalles-valoracion"></section>
         </div>
