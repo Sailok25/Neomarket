@@ -58,7 +58,22 @@
                     </div>
                 </div>
             </section>
-            <section id="detalles-valoracion"></section>
+            <section id="detalles-valoracion">
+                <div class="descripcion">
+                    <div class="valoracion">
+                        <div class="nivel-valoracion">
+                            <span class="fluent--star-12-filled"></span>
+                            <p>4.5</p>
+                        </div>
+                        <p>(500 Reviews)</p>
+                    </div>
+                    <div class="text-desc">
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet blanditiis a molestias commodi enim deserunt consectetur! Mollitia corporis ea rerum repellendus veritatis praesentium pariatur dolorem. Sint error consectetur beatae ducimus!</p>
+                    </div>
+                </div>
+
+                <div class="fav-carrito"></div>
+            </section>
         </div>
     </main>
     <footer>
