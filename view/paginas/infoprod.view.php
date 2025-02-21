@@ -68,11 +68,72 @@
                         <p>(500 Reviews)</p>
                     </div>
                     <div class="text-desc">
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet blanditiis a molestias commodi enim deserunt consectetur! Mollitia corporis ea rerum repellendus veritatis praesentium pariatur dolorem. Sint error consectetur beatae ducimus!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                            laboris nisi ut aliquip ex ea commodo consequat.
+                        </p>
+                        <p>
+                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                            mollit anim id est laborum.
+                        </p>
                     </div>
                 </div>
 
-                <div class="fav-carrito"></div>
+                <div class="fav-carrito">
+                    <div class="btn_fav">
+                        <span class="prime--bookmark"></span>
+                    </div>
+                    <div class="btn_carrito">
+                        <p>Añadir al carrito</p>
+                    </div>
+                </div>
+            </section>
+            <section id="resenas">
+                <div class="nivel_resenas">
+                    <div class="nivel_visual">
+                        <div class="rango_valoracion_producto">
+                            <h2>4.5</h2>
+                            <div class="rango_estrellas_producto">
+                                <span class="fluent--star-12-filled"></span>
+                                <span class="fluent--star-12-filled"></span>
+                                <span class="fluent--star-12-filled"></span>
+                                <span class="fluent--star-12-filled"></span>
+                                <span class="fluent--star-12-filled"></span>
+                            </div>
+                        </div>
+                        <div class="btn_filtro_resenas">
+                            <button class="btn_rango" value="5">5</button>
+                            <button class="btn_rango" value="4">4</button>
+                            <button class="btn_rango" value="3">3</button>
+                            <button class="btn_rango" value="2">2</button>
+                            <button class="btn_rango" value="1">1</button>
+                        </div>
+                    </div>
+                    <button onclick="addReview()">Añadir reseña</button>
+                </div>
+                <div class="comentarios">
+                    <h2>Reseñas</h2>
+                    <div class="total_comentarios">
+                        <div class="caja_comentario">
+                            <div class="perfil_comentario">
+                                <img src="../../assets/img/icono_fabricant.png" alt="">
+                                <div class="nombre_val">
+                                    <p>Nombre usuario</p>
+                                    <div class="estrellas_dadas">
+                                        <span class="fluent--star-12-filled"></span>
+                                        <span class="fluent--star-12-filled"></span>
+                                        <span class="fluent--star-12-filled"></span>
+                                        <span class="fluent--star-12-filled"></span>
+                                        <span class="fluent--star-12-filled"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <p>Lorem ipsum odor amet, consectetuer aipiscing elit. Augue aptent tincidunt felis mollis
+                                magnis senectus pellentesque turpis rutrum.</p>
+                        </div>
+                    </div>
+                </div>
             </section>
         </div>
     </main>
