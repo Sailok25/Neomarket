@@ -68,9 +68,8 @@ footer {
 #iconos {
     display: flex;
     flex-direction: row;
-    gap: 5rem;
+    justify-content: space-evenly;
     align-items: center;
-    justify-content: center;
     width: 100%;
 }
 
