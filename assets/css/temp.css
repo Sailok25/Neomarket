@@ -11,17 +11,17 @@
 
 #productes a {
     text-decoration: none;
-    padding: 1rem;
-    box-shadow: 0px 0px 4px 0px #A7A7A7;
-    border-radius: 1rem;
-    width: 150px;
-    min-height: 180px;
 }
 
 .producte{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 1rem;
+    box-shadow: 0px 0px 4px 0px #A7A7A7;
+    border-radius: 1rem;
+    width: 150px;
+    min-height: 180px;
 }
 
 .nom-producte {
@@ -40,6 +40,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 }
 
 .preu-producte {
@@ -55,4 +56,13 @@
     justify-content: center;
     border: 1px solid #c2c5c7;
     border-radius: 8px;
+}
+
+.eliminar_fav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid #c2c5c7;
+    border-radius: 8px;
+    padding: 2px;
 }

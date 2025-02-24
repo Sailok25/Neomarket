@@ -1,0 +1,9 @@
+IMPORTANTES
+- Usuarios
+- Productos
+- Pedidos
+- Cesta (localStorage)
+
+RELACIONES
+- Favoritos --> id_usuario + id_producto
+- Cesta --> id_usuario + id_producto

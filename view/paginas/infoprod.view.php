@@ -9,7 +9,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&family=Viga&display=swap"
         rel="stylesheet">
-    <title>Inicio | Neomarket</title>
+    <title>Info Producto | Neomarket</title>
     <link rel="stylesheet" href="../../assets/css/base_pag.css">
     <link rel="stylesheet" href="../../assets/css/global.css">
     <link rel="stylesheet" href="../../assets/css/temp.css">
@@ -21,7 +21,7 @@
     <header>
         <div id="barra">
             <div class="bordeado">
-                <a href="../../index.php"><span class="dashicons--arrow-left-alt2"></span></a>
+                <a href="../../controller/paginas/inicio.php"><span class="dashicons--arrow-left-alt2"></span></a>
             </div>
             <div class="logo">
                 <p>Neomarket.</p>
@@ -139,11 +139,11 @@
     </main>
     <footer>
         <div id="iconos">
-            <div class="i_opcio"><a href="#"><span class="clarity--home-line"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="prime--bookmark"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="f7--cart"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="ion--notifications-outline"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="mingcute--user-2-line"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/inicio.php"><span class="clarity--home-solid"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/favoritos.php"><span class="prime--bookmark"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/carrito.php"><span class="f7--cart"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/notificaciones.php"><span class="ion--notifications-outline"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/perfil.php"><span class="mingcute--user-2-line"></span></a></div>
         </div>
     </footer>
 </body>

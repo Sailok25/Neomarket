@@ -50,11 +50,11 @@
     </main>
     <footer>
         <div id="iconos">
-            <div class="i_opcio"><a href="#"><span class="clarity--home-line"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="prime--bookmark"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="f7--cart"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="ion--notifications-outline"></span></a></div>
-            <div class="i_opcio"><a href="#"><span class="mingcute--user-2-line"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/inicio.php"><span class="clarity--home-solid"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/favoritos.php"><span class="prime--bookmark"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/carrito.php"><span class="f7--cart"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/notificaciones.php"><span class="ion--notifications-outline"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/perfil.php"><span class="mingcute--user-2-line"></span></a></div>
         </div>
     </footer>
 </body>
