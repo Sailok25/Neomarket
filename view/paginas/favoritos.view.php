@@ -41,9 +41,11 @@
                         <p class="nom-producte">Nom producte</p>
                         <div class="preu-mesinfo">
                             <p class="preu-producte">00.00€</p>
-                            <div class="eliminar_fav">
-                                <span class="solar--trash-bin-trash-outline"></span>
-                            </div>
+                            <a href="../../controller/paginas/otras_logicas/borrar_preferit.php">
+                                <div class="eliminar_fav">
+                                    <span class="solar--trash-bin-trash-outline"></span>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>
