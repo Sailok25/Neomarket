@@ -18,10 +18,13 @@
 </head>
 
 <body>
-    <header class="header_vacio">
+<header>
         <div id="barra">
-            <div class="logo">
+            <div class="logo apano1">
                 <p>Neomarket.</p>
+            </div>
+            <div class="bordeado apano2">
+                <span class="f7--cart"></span>
             </div>
         </div>
     </header>
@@ -86,7 +89,7 @@
             </div>
             <div class="i_opcio">
                 <a href="../../controller/paginas/carrito.php">
-                <span class="f7--cart"></span>
+                <span class="simple-line-icons--plus"></span>
                 </a>
             </div>
             <div class="i_opcio">

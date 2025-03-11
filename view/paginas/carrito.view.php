@@ -88,7 +88,7 @@
             </div>
             <div class="i_opcio">
                 <a href="../../controller/paginas/carrito.php">
-                    <span class="f7--cart-fill"></span>
+                <span class="simple-line-icons--plus"></span>
                 </a>
             </div>
             <div class="i_opcio">

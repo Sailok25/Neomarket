@@ -58,7 +58,7 @@
                         class="clarity--home-line"></span></a></div>
             <div class="i_opcio"><a href="../../controller/paginas/favoritos.php"><span
                         class="prime--bookmark-fill"></span></a></div>
-            <div class="i_opcio"><a href="../../controller/paginas/carrito.php"><span class="f7--cart"></span></a></div>
+            <div class="i_opcio"><a href="../../controller/paginas/carrito.php"><span class="simple-line-icons--plus"></span></a></div>
             <div class="i_opcio"><a href="../../controller/paginas/notificaciones.php"><span
                         class="ion--notifications-outline"></span></a></div>
             <div class="i_opcio"><a href="../../controller/paginas/perfil.php"><span
