@@ -9,7 +9,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&family=Viga&display=swap"
         rel="stylesheet">
-    <title>Favoritos | Neomarket</title>
+    <title>Carrito | Neomarket</title>
     <link rel="stylesheet" href="../../assets/css/base_pag.css">
     <link rel="stylesheet" href="../../assets/css/global.css">
     <link rel="stylesheet" href="../../assets/css/temp.css">
@@ -27,17 +27,50 @@
     </header>
     <main>
         <div id="all">
-            <section class="productos_carrito"></section>
+            <section class="productos_carrito">
+                <div class="producto_carrito">
+                    <div class="foto_producto_carrito">
+                        <img src="../../assets/img/productos/producto1.jpg" alt="Producto 1">
+                    </div>
+                    <div class="info_product_carrito">
+                        <div class="nombre_precio">
+                            <p class="nombre_producto">Nombre del producto</p>
+                            <p class="precio_producto">00.00€</p>
+                        </div>
 
-            <!-- este permite hacer scroll encima del section de abajo que esta fijo encima del footer -->
-            <section class="valor_carrito">
-                <div class="codigo_promocional"></div>
-                <div class="calculo_pagar">
-                    <div class="campo_calculo"><p class="subtotal">Subtotal: </p><p class="valor_cantidad"></p></div>
-                    <div class="campo_calculo"><p class="subtotal">Descuento: </p><p class="valor_cantidad"></p></div>
-                    <div class="campo_calculo"><p class="subtotal">IVA 21%: </p><p class="valor_cantidad"></p></div>
-                    <div class="campo_calculo"><p class="subtotal">Total: </p><p class="valor_cantidad"></p></div>
+                        <div class="cantidad_producto">
+                            <button class="cantidad-btn_carrito">+</button>
+                            <input type="text" class="cantidad_carrito" value="00" readonly>
+                            <button class="cantidad-btn_carrito">−</button>
+                        </div>
+                    </div>
                 </div>
+            </section>
+            <section class="valor_carrito">
+                <div class="codigo_promocional">
+                    <span class="hugeicons--discount"></span>
+                    <input type="text" placeholder="Código promocional">
+                </div>
+                <div class="calculo_pagar">
+                    <div class="campo_calculo">
+                        <p class="subtotal">Subtotal: </p>
+                        <p class="valor_cantidad">00.00€</p>
+                    </div>
+                    <div class="campo_calculo">
+                        <p class="subtotal">Descuento: </p>
+                        <p class="valor_cantidad">- 00.00€</p>
+                    </div>
+                    <div class="campo_calculo">
+                        <p class="subtotal">IVA 21%: </p>
+                        <p class="valor_cantidad">00.00€</p>
+                    </div>
+                    <div class="campo_calculo">
+                        <p class="subtotal_2">Total: </p>
+                        <p class="valor_cantidad_2">00.00€ </p>
+                    </div>
+                </div>
+                <div class="boton_pagar">
+                    <a>Pagar</a>
             </section>
         </div>
     </main>
